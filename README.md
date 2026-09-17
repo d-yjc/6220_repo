@@ -15,8 +15,9 @@ pip install -r requirements.txt
 Launch the notebook:
 
 ```bash
-jupyter notebook hw[X]_6220_chodaniel.ipynb
+jupyter notebook HW[ ]/hw[ ]_6220_chodaniel.ipynb
 ```
-where `[X]` is the homework number e.g., `hw1`.
+where `[ ]` is the hw number e.g., `HW1/hw1_6220_chodaniel.ipynb`.
 
+(or just open it with an IDE).
 #
